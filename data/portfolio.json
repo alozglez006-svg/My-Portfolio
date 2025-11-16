@@ -1,9 +1,9 @@
 {
   "name": "Ana",
   "headerTaglineOne": "Hello,",
-  "headerTaglineTwo": "I'm Ana Lozano González -",
-  "headerTaglineThree": "focused on quantitative thinking, financial",
-  "headerTaglineFour": " markets and continuous learning.",
+  "headerTaglineTwo": "I'm Ana - an Econometrics",
+  "headerTaglineThree": "bachelor with an interest in",
+  "headerTaglineFour": " financial markets and continuous learning.",
   "showCursor": true,
   "showBlog": true,
   "darkMode": true,
@@ -31,52 +31,49 @@
     },
     {
       "id": "5",
-      "title": "XXX",
-      "link": "mailto:hello@chetanverma.com"
+      "title": "",
+      "link": ""
     }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "A Value Investing Approach",
+      "description": "Value Metrics",
+      "imageSrc": "https://unsplash.com/es/fotos/monitor-de-computadora-de-pantalla-plana-negro-N__BnvQ_w18",
+      "url": ""
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "A Momentum Trading Approach",
+      "description": "Price Trends",
+      "imageSrc": "https://unsplash.com/es/fotos/monitor-showing-java-programming-OqtafYT5kTw",
+      "url": ""
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "An Equal-Weight S&P 500 Index Fund",
+      "description": "Index Returns",
+      "imageSrc": "https://unsplash.com/es/fotos/foto-de-angulo-bajo-de-edificios-de-gran-altura-de-la-ciudad-durante-el-dia-PhYq704ffdA",
+      "url": ""
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "",
+      "description": "",
+      "imageSrc": ""
     },
     {
       "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "",
+      "description": "",
+      "imageSrc": ""
     },
     {
       "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "",
+      "description": "",
+      "imageSrc": ""
     }
   ],
   "services": [
@@ -92,13 +89,13 @@
     },
     {
       "id": "3",
-      "title": "Data Analysis",
-      "description": "XXX"
+      "title": "",
+      "description": ""
     },
     {
       "id": "4",
-      "title": "XX",
-      "description": "XXX"
+      "title": "",
+      "description": ""
     }
   ],
   "aboutpara": "I'm Ana Lozano, an Econometrics student with a strong interest in quantitative analysis, financial modeling, and data-driven problem solving. I enjoy working at the intersection of math, economics, and technology, and I'm currently developing advanced skills through projects, coursework, and hands-on challenges in finance and analytics.",
