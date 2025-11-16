@@ -24,13 +24,3 @@ This is my way of slowing down, strengthening my foundations, and engaging with 
 
 ### Chapter 1
 
-{/* xxx */}
-
-{/* #### This is Heading Four With Code Block */}
-
-{/* ```jsx */}
-{/* <code className={className} {...props}> */}
-{/*   {children} */}
-{/* </code> */}
-```
-Quotes
