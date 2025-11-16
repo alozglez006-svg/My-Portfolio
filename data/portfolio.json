@@ -38,8 +38,8 @@
   "projects": [
     {
       "id": "1",
-      "title": "A Value Investing Approach",
-      "description": "Value Metrics",
+      "title": "An Equal-Weight S&P 500 Index Fund",
+      "description": "Index Returns",
       "imageSrc": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": ""
     },
@@ -52,8 +52,8 @@
     },
     {
       "id": "3",
-      "title": "An Equal-Weight S&P 500 Index Fund",
-      "description": "Index Returns",
+      "title": "A Value Investing Approach",
+      "description": "Value Metrics",
       "imageSrc": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": ""
     },
