@@ -11,9 +11,9 @@ export default function handler(req, res) {
       const data = matter.stringify("# New Blog", {
         date: new Date().toISOString(),
         title: "New Blog",
-        tagline: "A Deeper Dive Into Econometrics",
+        tagline: "Amazing New Blog",
         preview:
-          "My reflections as I work through Philip Hans Franses’ *A Concise Introduction to Econometrics* and focus on building real intuition rather than studying merely for exams.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         image: getRandomImage(),
       });
       fs.writeFileSync(postsfolder, data, (err) => console.error(err));

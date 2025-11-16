@@ -24,7 +24,7 @@ This is my way of slowing down, strengthening my foundations, and engaging with 
 **A Concise Introduction to Econometrics: An Intuitive Guide** by Philip Hans Franses is a compact, accessible introduction to the core ideas of econometrics. Instead of overwhelming the reader with heavy mathematics, it focuses on building intuition: why models work, how to think about data, and what makes an econometric approach appropriate in real applications. It’s short, practical, and designed to give the reader a solid conceptual foundation before diving into more advanced material.
 
 ### Chapter 1
-<!--
+{/*
 xxx
 
 #### This is Heading Four With Code Block
@@ -64,4 +64,4 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 ## Images
 
 ![An old rock in the desert](https://images.unsplash.com/photo-1654475677192-2d869348bb4c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
--->
+*/}
